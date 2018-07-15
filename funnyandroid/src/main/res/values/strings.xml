@@ -5,4 +5,5 @@
 
 <resources>
     <string name="app_name">FunnyAndroid</string>
+    <string name="joke_headline">One of the best jokes in your life</string>
 </resources>
