@@ -15,6 +15,6 @@ public class JokeTeller {
     };
 
     public static String getRandomJoke(){
-        return JOKES[Randomizer.randInt(0, JOKES.length)];
+        return JOKES[Randomizer.randInt(0, JOKES.length-1)];
     }
 }
