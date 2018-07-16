@@ -35,11 +35,11 @@ android {
     flavorDimensions "default"
     productFlavors {
         paid {
-            applicationId "com.udacity.gradle.buildflavors.paid"
+            applicationId "com.udacity.gradle.builditbigger.paid"
             dimension "default"
         }
         free {
-            applicationId "com.udacity.gradle.buildflavors.free"
+            applicationId "com.udacity.gradle.builditbigger.free"
             dimension "default"
         }
     }
